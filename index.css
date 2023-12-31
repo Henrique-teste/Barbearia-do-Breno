@@ -31,11 +31,13 @@ form input, form button {
     margin: 0 auto;
     display: block;
     padding: 5px;
+    color: #fff;
 
 }
 input{
     border-radius: 10px;
     border: none;
+    color:#000;
 }
 button{
     background-color: green;
