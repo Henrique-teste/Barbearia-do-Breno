@@ -31,19 +31,17 @@ form input, form button, form label {
     width: 100%;
     margin: 0 auto;
     display: block;
-    padding: 5px;
+    padding: 10px;
 }
 input{
     border-radius: 10px;
     border: none;
-    margin-bottom:30px;
 }
 button{
     background-color: green;
     border-radius: 10px;
     border: none;
     color: #fff;
-    margin-top: 10px;
 }
 form{
     margin-bottom: 30px;
