@@ -17,12 +17,16 @@ $('form').on('submit',function(e){
     <tr>
         <td>
         ${nomeCliente} -
-        ${numeroCliente}
-        ${emailCliente} -
         ${dataCliente}
+        ${emailCliente} -
+        ${numeroCliente}
         </td> 
     </tr>
     `).appendTo(infoClientes)
     $(infoClientes).appendTo('tbody')
+        $('#nome-cliente').val('');
+    $('#telefone-cliente').val('');
+    $('#email-cliente').val('');
+    $('#horario-cliente').val('');
     
 })
