@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aqua;
+}
+.container {
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+}
+header{
+    margin-top: 100px;
+}
+header,form h2 {
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+form h2{
+    padding-top: 40px;
+}
+form input, form button {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    padding: 5px;
+}
+input{
+    border-radius: 10px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+button{
+    background-color: green;
+    border-radius: 10px;
+    border: none;
+    color: aqua;
+}
+form{
+    margin-bottom: 30px;
+}
+thead th {
+    border-bottom: solid rgba(0,0,0,0.7);
+    padding-bottom: 20px;
+    display:none
+}
+tbody td {
+    max-width: 800px;
+    width: 100%;
+    text-align: center;
+    padding:3px;
+}
+tfoot th {
+    border-top: solid rgba(0,0,0,0.7);
+    padding-top: 30px;
+    font-size: 30px;
+    display: none;
+}
