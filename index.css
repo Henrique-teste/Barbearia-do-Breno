@@ -7,7 +7,7 @@ body{
     background-color: aqua;
 }
 .container {
-    max-width: 600px;
+    max-width: 400px;
     width: 100%;
     margin: 0 auto;
 }
@@ -15,7 +15,7 @@ header{
     margin-top: 100px;
 }
 header,form h2 {
-    font-size: 30px;
+    font-size: 20px;
     display: flex;
     justify-content: center;
     margin-bottom: 20px;
@@ -23,9 +23,10 @@ header,form h2 {
 }
 form h2{
     padding-top: 40px;
+    font-size: 25px;
 }
 form input, form button {
-    max-width: 500px;
+    max-width: 300px;
     width: 100%;
     margin: 0 auto;
     display: block;
