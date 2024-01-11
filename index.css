@@ -27,6 +27,7 @@ form {
     display:block;
     text-align:center;
     padding-top: 50px;
+    background-color: #fff;
 }
 .formulario label {
     font-height:10px;
