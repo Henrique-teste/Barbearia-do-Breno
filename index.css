@@ -7,4 +7,8 @@ header{
     padding: 20px 0;
     display:flex;
     justify-content:center;
+    background-color:#192a56;
+}
+header h1{
+    color: #fff;
 }
