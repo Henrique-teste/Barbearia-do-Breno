@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
+body {
+    font-family: 'Roboto', sans-serif;
+}
 header{
     padding: 20px 0;
     display:flex;
@@ -26,8 +29,8 @@ form {
     padding-top: 50px;
 }
 .formulario label {
-    font-family: 'Roboto', sans-serif;
+    font-height:10px;
 }
 .formulario input {
-    padding:8px;
+    padding:5px;
 }
