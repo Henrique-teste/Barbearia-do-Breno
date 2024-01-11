@@ -24,7 +24,7 @@ header h1{
     margin: 0 auto;
 }
 form {
-    display:block;
+    display:inline;
     text-align:center;
 }
 .formulario form label {
