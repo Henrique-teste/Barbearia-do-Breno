@@ -18,19 +18,3 @@ header h1{
     font-height:bold;
     font-family: 'Roboto', sans-serif;
 }
-.formulario {
-    max-width:600px;
-    width:100%;
-    margin: 0 auto;
-}
-form {
-    display:inline;
-    text-align:center;
-    justify-content: space-between;
-}
-.formulario form label {
-    font-heigth:50px;
-}
-.formulario form input {
-    padding:5px;
-}
