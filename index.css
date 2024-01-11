@@ -8,7 +8,9 @@ header{
     display:flex;
     justify-content:center;
     background-color:#192a56;
+    border-radius:10px;
 }
 header h1{
     color: #fff;
+    font-height:bold;
 }
