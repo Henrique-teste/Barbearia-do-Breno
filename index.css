@@ -24,3 +24,9 @@ form {
     display:block;
     text-align:center;
 }
+.formulario label {
+    font-family: 'Roboto', sans-serif;
+}
+.formulario input {
+    padding:8px;
+}
