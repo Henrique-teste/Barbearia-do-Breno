@@ -26,6 +26,7 @@ header h1{
 form {
     display:inline;
     text-align:center;
+    justify-content: space-between;
 }
 .formulario form label {
     font-heigth:50px;
