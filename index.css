@@ -27,9 +27,9 @@ form {
     display:block;
     text-align:center;
 }
-form label {
+.formulario form label {
     font-heigth:50px;
 }
-form input {
+.formulario form input {
     padding:5px;
 }
