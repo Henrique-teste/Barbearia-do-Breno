@@ -3,3 +3,11 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    backgroud-color:#192a56;
+}
+.container {
+    max-width:1024px;
+    width:100%
+    margin: 0 auto;
+}
