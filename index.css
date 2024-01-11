@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-.cabecalho{
+header{
     display:flex;
     justify-content:center;
 }
