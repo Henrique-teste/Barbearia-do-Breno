@@ -18,9 +18,7 @@ header h1{
 form {
     max-width: 250px;
     width:100%;
-    margin: 0 auto;
 }
 .formulario {
     display:block;
-    text-align:center;
 }
