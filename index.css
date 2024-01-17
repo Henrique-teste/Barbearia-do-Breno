@@ -10,4 +10,10 @@ header {
     background-color:#192a56;
     color:#fff;
 }
+form {
+    max-width:400px;
+    width:100%;
+    text-align: center;
+    background-color:aqua;
+}
 
