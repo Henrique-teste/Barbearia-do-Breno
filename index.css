@@ -14,7 +14,7 @@ form {
     max-width:600px;
     width:100%;
     background-color:aqua;
-    display:flex;
+    display:block;
     justify-content: space-beteewn;
     align-items: center;
 }
