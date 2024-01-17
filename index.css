@@ -13,9 +13,11 @@ header {
 form {
     max-width:600px;
     width:100%;
-    background-color:aqua;
-    display:block;
+    display:block
+}
+.container {
     justify-content: space-beteewn;
     align-items: center;
+    display:flex;
 }
 
