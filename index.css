@@ -11,9 +11,6 @@ header {
     color:#fff;
 }
 form {
-    max-width:400px;
-    width:100%;
-    text-align: center;
     background-color:aqua;
     display:flex;
     justify-content: space-beteewn
