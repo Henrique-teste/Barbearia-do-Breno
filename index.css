@@ -21,6 +21,9 @@ form {
     width:100%;
     margin: 0 auto;
 }
+label {
+    
+}
 form input{
     padding:4px;
     width:100%;
