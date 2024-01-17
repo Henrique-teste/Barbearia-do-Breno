@@ -20,6 +20,9 @@ form {
     max-width:240px;
     width:100%;
     justify-content: space-beteewn;
-    
+}
+form input{
+    padding:4;
+    width:100%;
 }
 
