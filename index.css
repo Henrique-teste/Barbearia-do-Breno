@@ -16,8 +16,8 @@ form {
     display:block
 }
 .container {
-    justify-content: space-beteewn;
-    align-items: center;
-    display:flex;
+    max-width:1366px;
+    width:100%;
+    margin: 0 auto
 }
 
