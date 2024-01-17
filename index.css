@@ -13,6 +13,7 @@ header {
 form {
     background-color:aqua;
     display:flex;
-    justify-content: space-beteewn
+    justify-content: space-beteewn;
+    align-items: center;
 }
 
