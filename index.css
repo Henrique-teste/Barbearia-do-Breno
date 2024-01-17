@@ -4,4 +4,7 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif; 
 }
-
+header {
+    padding:10px;
+    text-align: center;
+}
